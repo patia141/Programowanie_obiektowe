@@ -98,7 +98,6 @@ namespace ConsoleApp1
         static void MetryNaCenty()
         {
             Console.WriteLine("Podaj jednostkę");
-            int liczba = 
 
         }
     }
