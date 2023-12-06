@@ -1,0 +1,11 @@
+F:\obiektowka\lab5\lab5\bin\Debug\netcoreapp3.0\lab5.exe
+F:\obiektowka\lab5\lab5\bin\Debug\netcoreapp3.0\lab5.deps.json
+F:\obiektowka\lab5\lab5\bin\Debug\netcoreapp3.0\lab5.runtimeconfig.json
+F:\obiektowka\lab5\lab5\bin\Debug\netcoreapp3.0\lab5.runtimeconfig.dev.json
+F:\obiektowka\lab5\lab5\bin\Debug\netcoreapp3.0\lab5.dll
+F:\obiektowka\lab5\lab5\bin\Debug\netcoreapp3.0\lab5.pdb
+F:\obiektowka\lab5\lab5\obj\Debug\netcoreapp3.0\lab5.csprojAssemblyReference.cache
+F:\obiektowka\lab5\lab5\obj\Debug\netcoreapp3.0\lab5.AssemblyInfoInputs.cache
+F:\obiektowka\lab5\lab5\obj\Debug\netcoreapp3.0\lab5.AssemblyInfo.cs
+F:\obiektowka\lab5\lab5\obj\Debug\netcoreapp3.0\lab5.dll
+F:\obiektowka\lab5\lab5\obj\Debug\netcoreapp3.0\lab5.pdb
