@@ -1,0 +1,11 @@
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\bin\Debug\netcoreapp3.0\zadania_przed_kolosem.exe
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\bin\Debug\netcoreapp3.0\zadania_przed_kolosem.deps.json
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\bin\Debug\netcoreapp3.0\zadania_przed_kolosem.runtimeconfig.json
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\bin\Debug\netcoreapp3.0\zadania_przed_kolosem.runtimeconfig.dev.json
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\bin\Debug\netcoreapp3.0\zadania_przed_kolosem.dll
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\bin\Debug\netcoreapp3.0\zadania_przed_kolosem.pdb
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\obj\Debug\netcoreapp3.0\zadania_przed_kolosem.csprojAssemblyReference.cache
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\obj\Debug\netcoreapp3.0\zadania_przed_kolosem.AssemblyInfoInputs.cache
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\obj\Debug\netcoreapp3.0\zadania_przed_kolosem.AssemblyInfo.cs
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\obj\Debug\netcoreapp3.0\zadania_przed_kolosem.dll
+F:\obiektowka\zadania_przed_kolosem\zadania_przed_kolosem\obj\Debug\netcoreapp3.0\zadania_przed_kolosem.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "zadania_przed_kolosem/1.0.0": {
+        "runtime": {
+          "zadania_przed_kolosem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadania_przed_kolosem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
