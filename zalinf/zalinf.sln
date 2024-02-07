@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zalinf", "zalinf.csproj", "{D70B25E8-97EA-4374-92C1-75783D981C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70B25E8-97EA-4374-92C1-75783D981C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70B25E8-97EA-4374-92C1-75783D981C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70B25E8-97EA-4374-92C1-75783D981C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70B25E8-97EA-4374-92C1-75783D981C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53B47E8-C9E8-4BB8-8C41-29F49A663AEC}
+	EndGlobalSection
+EndGlobal

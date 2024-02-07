@@ -1,0 +1,14 @@
+D:\Users\micha\Desktop\zalinf\zalinf\bin\Debug\net7.0\zalinf.exe
+D:\Users\micha\Desktop\zalinf\zalinf\bin\Debug\net7.0\zalinf.deps.json
+D:\Users\micha\Desktop\zalinf\zalinf\bin\Debug\net7.0\zalinf.runtimeconfig.json
+D:\Users\micha\Desktop\zalinf\zalinf\bin\Debug\net7.0\zalinf.dll
+D:\Users\micha\Desktop\zalinf\zalinf\bin\Debug\net7.0\zalinf.pdb
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\zalinf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\zalinf.AssemblyInfoInputs.cache
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\zalinf.AssemblyInfo.cs
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\zalinf.csproj.CoreCompileInputs.cache
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\zalinf.dll
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\refint\zalinf.dll
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\zalinf.pdb
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\zalinf.genruntimeconfig.cache
+D:\Users\micha\Desktop\zalinf\zalinf\obj\Debug\net7.0\ref\zalinf.dll
